@@ -14,7 +14,7 @@ Only one `ID` can be admin of the bot: it is specifed in the `config.py` file
 
 Public commands:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mocpi07/NoPmsBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mocpi07/RandomChat-Bot)
 
 - `/join` a room
 - `/leave` the actual room
